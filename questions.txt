@@ -1,0 +1,20 @@
+Computer Science
+end
+Math
+end
+English
+end
+Philosophy
+end
+Biology
+end
+Geology
+end
+Physics
+end
+Art
+end
+Business
+end
+History
+end

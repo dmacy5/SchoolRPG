@@ -1,0 +1,50 @@
+Computer Science
+end
+Math
+Leo Oiler
+100 College Algebra
+200 Pre-Calculus
+310 Calculus I
+end
+Zac Houston
+250 Linear Algebra
+320 Calculus II
+330 Calculus III
+end
+Will Libner
+400 Calculus IV
+450 Multi-variable Calculus I
+460 Multi-variable Calculus II
+end
+end
+English
+end
+Philosophy
+end
+Biology
+end
+Geology
+end
+Physics
+Al Ninestein
+100 Physical Science
+200 Algebra Based Physics
+310 General Physics I
+end
+Eve Hoken
+250 Advanced Theories
+320 General Physics II
+330 General Physics III
+end
+Martin Curry
+400 General Physics IV
+450 Quantum Physics I
+460 Quantum Physics II
+end
+end
+Art
+end
+Business
+end
+History
+end

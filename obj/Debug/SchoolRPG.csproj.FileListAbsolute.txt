@@ -1,0 +1,6 @@
+c:\users\drew\documents\visual studio 2013\Projects\SchoolRPG\SchoolRPG\bin\Debug\SchoolRPG.exe.config
+c:\users\drew\documents\visual studio 2013\Projects\SchoolRPG\SchoolRPG\obj\Debug\SchoolRPG.csprojResolveAssemblyReference.cache
+c:\users\drew\documents\visual studio 2013\Projects\SchoolRPG\SchoolRPG\bin\Debug\SchoolRPG.exe
+c:\users\drew\documents\visual studio 2013\Projects\SchoolRPG\SchoolRPG\bin\Debug\SchoolRPG.pdb
+c:\users\drew\documents\visual studio 2013\Projects\SchoolRPG\SchoolRPG\obj\Debug\SchoolRPG.exe
+c:\users\drew\documents\visual studio 2013\Projects\SchoolRPG\SchoolRPG\obj\Debug\SchoolRPG.pdb
